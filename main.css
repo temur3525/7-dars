@@ -1,0 +1,13 @@
+.tem1{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: red;
+}
